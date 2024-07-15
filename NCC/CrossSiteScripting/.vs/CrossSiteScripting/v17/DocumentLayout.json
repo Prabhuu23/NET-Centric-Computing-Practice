@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\CrossSiteScripting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5731F8-FC45-45E3-9CB0-6C4FD7219D6C}|CrossSiteScripting\\CrossSiteScripting.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\crosssitescripting\\crosssitescripting\\models\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5731F8-FC45-45E3-9CB0-6C4FD7219D6C}|CrossSiteScripting\\CrossSiteScripting.csproj|solutionrelative:crosssitescripting\\models\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5731F8-FC45-45E3-9CB0-6C4FD7219D6C}|CrossSiteScripting\\CrossSiteScripting.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\crosssitescripting\\crosssitescripting\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5731F8-FC45-45E3-9CB0-6C4FD7219D6C}|CrossSiteScripting\\CrossSiteScripting.csproj|solutionrelative:crosssitescripting\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5731F8-FC45-45E3-9CB0-6C4FD7219D6C}|CrossSiteScripting\\CrossSiteScripting.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\crosssitescripting\\crosssitescripting\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE5731F8-FC45-45E3-9CB0-6C4FD7219D6C}|CrossSiteScripting\\CrossSiteScripting.csproj|solutionrelative:crosssitescripting\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5731F8-FC45-45E3-9CB0-6C4FD7219D6C}|CrossSiteScripting\\CrossSiteScripting.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\crosssitescripting\\crosssitescripting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5731F8-FC45-45E3-9CB0-6C4FD7219D6C}|CrossSiteScripting\\CrossSiteScripting.csproj|solutionrelative:crosssitescripting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\CrossSiteScripting\\CrossSiteScripting\\Program.cs",
+              "RelativeDocumentMoniker": "CrossSiteScripting\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\CrossSiteScripting\\CrossSiteScripting\\Program.cs",
+              "RelativeToolTip": "CrossSiteScripting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:21:45.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\CrossSiteScripting\\CrossSiteScripting\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrossSiteScripting\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\CrossSiteScripting\\CrossSiteScripting\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "CrossSiteScripting\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T03:21:35.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\CrossSiteScripting\\CrossSiteScripting\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CrossSiteScripting\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\CrossSiteScripting\\CrossSiteScripting\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CrossSiteScripting\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:15:37.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\CrossSiteScripting\\CrossSiteScripting\\Models\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "CrossSiteScripting\\Models\\AccountViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\CrossSiteScripting\\CrossSiteScripting\\Models\\AccountViewModel.cs",
+              "RelativeToolTip": "CrossSiteScripting\\Models\\AccountViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:12:31.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

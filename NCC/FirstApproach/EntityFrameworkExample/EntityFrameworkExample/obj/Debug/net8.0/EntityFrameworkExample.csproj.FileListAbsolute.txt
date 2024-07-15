@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FirstApproach\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\net8.0\EntityFrameworkExample.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FirstApproach\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\net8.0\EntityFrameworkExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FirstApproach\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\net8.0\EntityFrameworkExample.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FirstApproach\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\net8.0\EntityFrameworkExample.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FirstApproach\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\net8.0\EntityFrameworkExample.csproj.CoreCompileInputs.cache

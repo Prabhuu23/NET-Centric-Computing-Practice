@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Sem 6\NCC\myfirst_project\myfirst_project\bin\Debug\myfirst_project.exe.config
+C:\Users\Lenovo\Desktop\Sem 6\NCC\myfirst_project\myfirst_project\bin\Debug\myfirst_project.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\myfirst_project\myfirst_project\bin\Debug\myfirst_project.pdb
+C:\Users\Lenovo\Desktop\Sem 6\NCC\myfirst_project\myfirst_project\obj\Debug\myfirst_project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\myfirst_project\myfirst_project\obj\Debug\myfirst_project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\myfirst_project\myfirst_project\obj\Debug\myfirst_project.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\myfirst_project\myfirst_project\obj\Debug\myfirst_project.pdb

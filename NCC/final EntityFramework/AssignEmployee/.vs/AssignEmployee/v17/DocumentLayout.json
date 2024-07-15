@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\final entityframework\\assignemployee\\assignemployee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|solutionrelative:assignemployee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\final entityframework\\assignemployee\\assignemployee\\models\\employeedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|solutionrelative:assignemployee\\models\\employeedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\final entityframework\\assignemployee\\assignemployee\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|solutionrelative:assignemployee\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\final entityframework\\assignemployee\\assignemployee\\models\\tbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|solutionrelative:assignemployee\\models\\tbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\final entityframework\\assignemployee\\assignemployee\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|solutionrelative:assignemployee\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\final entityframework\\assignemployee\\assignemployee\\migrations\\20240228150818_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|solutionrelative:assignemployee\\migrations\\20240228150818_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\final entityframework\\assignemployee\\assignemployee\\models\\tbemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBD956-D22E-4FB0-9890-0CFD43BFC034}|AssignEmployee\\AssignEmployee.csproj|solutionrelative:assignemployee\\models\\tbemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Models\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "AssignEmployee\\Models\\CustomerContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Models\\CustomerContext.cs",
+              "RelativeToolTip": "AssignEmployee\\Models\\CustomerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:11:29.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tbCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Models\\tbCustomer.cs",
+              "RelativeDocumentMoniker": "AssignEmployee\\Models\\tbCustomer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Models\\tbCustomer.cs",
+              "RelativeToolTip": "AssignEmployee\\Models\\tbCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:10:54.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240228150818_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Migrations\\20240228150818_Initial.cs",
+              "RelativeDocumentMoniker": "AssignEmployee\\Migrations\\20240228150818_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Migrations\\20240228150818_Initial.cs",
+              "RelativeToolTip": "AssignEmployee\\Migrations\\20240228150818_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:08:19.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDB.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Models\\EmployeeDB.cs",
+              "RelativeDocumentMoniker": "AssignEmployee\\Models\\EmployeeDB.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Models\\EmployeeDB.cs*",
+              "RelativeToolTip": "AssignEmployee\\Models\\EmployeeDB.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:05:52.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Models\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "AssignEmployee\\Models\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Models\\EmployeeContext.cs",
+              "RelativeToolTip": "AssignEmployee\\Models\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:05:15.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Program.cs",
+              "RelativeDocumentMoniker": "AssignEmployee\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Program.cs*",
+              "RelativeToolTip": "AssignEmployee\\Program.cs*",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwFAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:01:57.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tbEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Models\\tbEmployee.cs",
+              "RelativeDocumentMoniker": "AssignEmployee\\Models\\tbEmployee.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\final EntityFramework\\AssignEmployee\\AssignEmployee\\Models\\tbEmployee.cs",
+              "RelativeToolTip": "AssignEmployee\\Models\\tbEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:04:00.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

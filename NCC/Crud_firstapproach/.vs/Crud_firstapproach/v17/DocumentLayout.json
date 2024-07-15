@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\Crud_firstapproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E611EDC4-2258-4F93-B58F-9385E601E06F}|Crud_firstapproach\\Crud_firstapproach.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\crud_firstapproach\\crud_firstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E611EDC4-2258-4F93-B58F-9385E601E06F}|Crud_firstapproach\\Crud_firstapproach.csproj|solutionrelative:crud_firstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E611EDC4-2258-4F93-B58F-9385E601E06F}|Crud_firstapproach\\Crud_firstapproach.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\crud_firstapproach\\crud_firstapproach\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E611EDC4-2258-4F93-B58F-9385E601E06F}|Crud_firstapproach\\Crud_firstapproach.csproj|solutionrelative:crud_firstapproach\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E611EDC4-2258-4F93-B58F-9385E601E06F}|Crud_firstapproach\\Crud_firstapproach.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\crud_firstapproach\\crud_firstapproach\\models\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E611EDC4-2258-4F93-B58F-9385E601E06F}|Crud_firstapproach\\Crud_firstapproach.csproj|solutionrelative:crud_firstapproach\\models\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E611EDC4-2258-4F93-B58F-9385E601E06F}|Crud_firstapproach\\Crud_firstapproach.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\crud_firstapproach\\crud_firstapproach\\models\\tbstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E611EDC4-2258-4F93-B58F-9385E601E06F}|Crud_firstapproach\\Crud_firstapproach.csproj|solutionrelative:crud_firstapproach\\models\\tbstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E611EDC4-2258-4F93-B58F-9385E601E06F}|Crud_firstapproach\\Crud_firstapproach.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\crud_firstapproach\\crud_firstapproach\\crud_firstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E611EDC4-2258-4F93-B58F-9385E601E06F}|Crud_firstapproach\\Crud_firstapproach.csproj|solutionrelative:crud_firstapproach\\crud_firstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crud_firstapproach.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\Crud_firstapproach\\Crud_firstapproach\\Crud_firstapproach.csproj",
+              "RelativeDocumentMoniker": "Crud_firstapproach\\Crud_firstapproach.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\Crud_firstapproach\\Crud_firstapproach\\Crud_firstapproach.csproj",
+              "RelativeToolTip": "Crud_firstapproach\\Crud_firstapproach.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T16:42:44.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\Crud_firstapproach\\Crud_firstapproach\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "Crud_firstapproach\\Models\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\Crud_firstapproach\\Crud_firstapproach\\Models\\StudentContext.cs",
+              "RelativeToolTip": "Crud_firstapproach\\Models\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:36:02.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDB.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\Crud_firstapproach\\Crud_firstapproach\\Models\\StudentDB.cs",
+              "RelativeDocumentMoniker": "Crud_firstapproach\\Models\\StudentDB.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\Crud_firstapproach\\Crud_firstapproach\\Models\\StudentDB.cs",
+              "RelativeToolTip": "Crud_firstapproach\\Models\\StudentDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:35:48.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tbstudent.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\Crud_firstapproach\\Crud_firstapproach\\Models\\tbstudent.cs",
+              "RelativeDocumentMoniker": "Crud_firstapproach\\Models\\tbstudent.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\Crud_firstapproach\\Crud_firstapproach\\Models\\tbstudent.cs",
+              "RelativeToolTip": "Crud_firstapproach\\Models\\tbstudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:35:36.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\Crud_firstapproach\\Crud_firstapproach\\Program.cs",
+              "RelativeDocumentMoniker": "Crud_firstapproach\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\Crud_firstapproach\\Crud_firstapproach\\Program.cs",
+              "RelativeToolTip": "Crud_firstapproach\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:32:48.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

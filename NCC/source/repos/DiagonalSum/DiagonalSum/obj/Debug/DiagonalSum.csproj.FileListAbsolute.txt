@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\DiagonalSum\DiagonalSum\bin\Debug\DiagonalSum.exe.config
+C:\Users\Lenovo\source\repos\DiagonalSum\DiagonalSum\bin\Debug\DiagonalSum.exe
+C:\Users\Lenovo\source\repos\DiagonalSum\DiagonalSum\bin\Debug\DiagonalSum.pdb
+C:\Users\Lenovo\source\repos\DiagonalSum\DiagonalSum\obj\Debug\DiagonalSum.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DiagonalSum\DiagonalSum\obj\Debug\DiagonalSum.exe
+C:\Users\Lenovo\source\repos\DiagonalSum\DiagonalSum\obj\Debug\DiagonalSum.pdb

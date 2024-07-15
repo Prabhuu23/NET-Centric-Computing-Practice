@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Sem 6\NCC\constructor\constructor\bin\Debug\constructor.exe.config
+C:\Users\Lenovo\Desktop\Sem 6\NCC\constructor\constructor\bin\Debug\constructor.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\constructor\constructor\bin\Debug\constructor.pdb
+C:\Users\Lenovo\Desktop\Sem 6\NCC\constructor\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\constructor\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\constructor\constructor\obj\Debug\constructor.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\constructor\constructor\obj\Debug\constructor.pdb

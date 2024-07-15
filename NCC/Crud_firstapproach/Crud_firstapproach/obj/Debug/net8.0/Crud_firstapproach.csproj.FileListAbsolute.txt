@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\Sem 6\NCC\Crud_firstapproach\Crud_firstapproach\obj\Debug\net8.0\Crud_firstapproach.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\Crud_firstapproach\Crud_firstapproach\obj\Debug\net8.0\Crud_firstapproach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Sem 6\NCC\Crud_firstapproach\Crud_firstapproach\obj\Debug\net8.0\Crud_firstapproach.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\Crud_firstapproach\Crud_firstapproach\obj\Debug\net8.0\Crud_firstapproach.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Sem 6\NCC\Crud_firstapproach\Crud_firstapproach\obj\Debug\net8.0\Crud_firstapproach.csproj.CoreCompileInputs.cache

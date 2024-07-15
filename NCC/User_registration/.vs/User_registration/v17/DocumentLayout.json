@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\User_registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{276644FE-EC2B-4B2F-8294-3B9E00DB1003}|User_registration\\User_registration.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\user_registration\\user_registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276644FE-EC2B-4B2F-8294-3B9E00DB1003}|User_registration\\User_registration.csproj|solutionrelative:user_registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276644FE-EC2B-4B2F-8294-3B9E00DB1003}|User_registration\\User_registration.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\user_registration\\user_registration\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276644FE-EC2B-4B2F-8294-3B9E00DB1003}|User_registration\\User_registration.csproj|solutionrelative:user_registration\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276644FE-EC2B-4B2F-8294-3B9E00DB1003}|User_registration\\User_registration.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\user_registration\\user_registration\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276644FE-EC2B-4B2F-8294-3B9E00DB1003}|User_registration\\User_registration.csproj|solutionrelative:user_registration\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276644FE-EC2B-4B2F-8294-3B9E00DB1003}|User_registration\\User_registration.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\user_registration\\user_registration\\views\\user\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276644FE-EC2B-4B2F-8294-3B9E00DB1003}|User_registration\\User_registration.csproj|solutionrelative:user_registration\\views\\user\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276644FE-EC2B-4B2F-8294-3B9E00DB1003}|User_registration\\User_registration.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\user_registration\\user_registration\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276644FE-EC2B-4B2F-8294-3B9E00DB1003}|User_registration\\User_registration.csproj|solutionrelative:user_registration\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\User_registration\\User_registration\\Views\\User\\Display.cshtml",
+              "RelativeDocumentMoniker": "User_registration\\Views\\User\\Display.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\User_registration\\User_registration\\Views\\User\\Display.cshtml",
+              "RelativeToolTip": "User_registration\\Views\\User\\Display.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T03:30:23.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\User_registration\\User_registration\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "User_registration\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\User_registration\\User_registration\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "User_registration\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T03:30:01.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\User_registration\\User_registration\\Models\\User.cs",
+              "RelativeDocumentMoniker": "User_registration\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\User_registration\\User_registration\\Models\\User.cs",
+              "RelativeToolTip": "User_registration\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:21:43.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\User_registration\\User_registration\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "User_registration\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\User_registration\\User_registration\\Controllers\\UserController.cs",
+              "RelativeToolTip": "User_registration\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:19:30.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\User_registration\\User_registration\\Program.cs",
+              "RelativeDocumentMoniker": "User_registration\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\User_registration\\User_registration\\Program.cs",
+              "RelativeToolTip": "User_registration\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:45:47.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\Sem 6\NCC\Get_set\Get_set\bin\Debug\Get_set.exe.config
+C:\Users\Lenovo\Desktop\Sem 6\NCC\Get_set\Get_set\bin\Debug\Get_set.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\Get_set\Get_set\bin\Debug\Get_set.pdb
+C:\Users\Lenovo\Desktop\Sem 6\NCC\Get_set\Get_set\obj\Debug\Get_set.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\Get_set\Get_set\obj\Debug\Get_set.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\Get_set\Get_set\obj\Debug\Get_set.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\MatixMultpilcation\MatixMultpilcation\bin\Debug\MatixMultpilcation.exe.config
+C:\Users\Lenovo\source\repos\MatixMultpilcation\MatixMultpilcation\bin\Debug\MatixMultpilcation.exe
+C:\Users\Lenovo\source\repos\MatixMultpilcation\MatixMultpilcation\bin\Debug\MatixMultpilcation.pdb
+C:\Users\Lenovo\source\repos\MatixMultpilcation\MatixMultpilcation\obj\Debug\MatixMultpilcation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MatixMultpilcation\MatixMultpilcation\obj\Debug\MatixMultpilcation.exe
+C:\Users\Lenovo\source\repos\MatixMultpilcation\MatixMultpilcation\obj\Debug\MatixMultpilcation.pdb

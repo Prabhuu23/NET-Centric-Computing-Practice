@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\StudentRecordAppq17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B76B68-9E54-4C44-8C96-9F8C18EB2225}|StudentRecordAppq17\\StudentRecordAppq17.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\studentrecordappq17\\studentrecordappq17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B76B68-9E54-4C44-8C96-9F8C18EB2225}|StudentRecordAppq17\\StudentRecordAppq17.csproj|solutionrelative:studentrecordappq17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\StudentRecordAppq17\\StudentRecordAppq17\\Program.cs",
+              "RelativeDocumentMoniker": "StudentRecordAppq17\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\StudentRecordAppq17\\StudentRecordAppq17\\Program.cs",
+              "RelativeToolTip": "StudentRecordAppq17\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwv04AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:42:46.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

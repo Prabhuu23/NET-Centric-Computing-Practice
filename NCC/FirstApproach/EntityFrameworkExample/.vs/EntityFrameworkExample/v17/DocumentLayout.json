@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\FirstApproach\\EntityFrameworkExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816F75D7-C677-4E1B-B976-AEE97786001C}|EntityFrameworkExample\\EntityFrameworkExample.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\firstapproach\\entityframeworkexample\\entityframeworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816F75D7-C677-4E1B-B976-AEE97786001C}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816F75D7-C677-4E1B-B976-AEE97786001C}|EntityFrameworkExample\\EntityFrameworkExample.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\firstapproach\\entityframeworkexample\\entityframeworkexample\\models\\employeedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816F75D7-C677-4E1B-B976-AEE97786001C}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\models\\employeedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDB.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\FirstApproach\\EntityFrameworkExample\\EntityFrameworkExample\\Models\\EmployeeDB.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkExample\\Models\\EmployeeDB.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\FirstApproach\\EntityFrameworkExample\\EntityFrameworkExample\\Models\\EmployeeDB.cs",
+              "RelativeToolTip": "EntityFrameworkExample\\Models\\EmployeeDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:38:19.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\FirstApproach\\EntityFrameworkExample\\EntityFrameworkExample\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\FirstApproach\\EntityFrameworkExample\\EntityFrameworkExample\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:37:50.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

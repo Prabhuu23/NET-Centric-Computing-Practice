@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Sem 6\NCC\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe.config
+C:\Users\Lenovo\Desktop\Sem 6\NCC\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.pdb
+C:\Users\Lenovo\Desktop\Sem 6\NCC\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.pdb

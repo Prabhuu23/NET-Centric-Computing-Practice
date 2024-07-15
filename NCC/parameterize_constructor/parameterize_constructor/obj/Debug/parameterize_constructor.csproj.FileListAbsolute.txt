@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Sem 6\NCC\parameterize_constructor\parameterize_constructor\obj\Debug\parameterize_constructor.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\parameterize_constructor\parameterize_constructor\obj\Debug\parameterize_constructor.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\parameterize_constructor\parameterize_constructor\bin\Debug\parameterize_constructor.exe.config
+C:\Users\Lenovo\Desktop\Sem 6\NCC\parameterize_constructor\parameterize_constructor\bin\Debug\parameterize_constructor.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\parameterize_constructor\parameterize_constructor\bin\Debug\parameterize_constructor.pdb
+C:\Users\Lenovo\Desktop\Sem 6\NCC\parameterize_constructor\parameterize_constructor\obj\Debug\parameterize_constructor.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\parameterize_constructor\parameterize_constructor\obj\Debug\parameterize_constructor.pdb

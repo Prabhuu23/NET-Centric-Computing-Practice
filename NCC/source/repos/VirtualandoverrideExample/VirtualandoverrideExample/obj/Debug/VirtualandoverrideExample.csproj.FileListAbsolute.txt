@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\VirtualandoverrideExample\VirtualandoverrideExample\obj\Debug\VirtualandoverrideExample.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\VirtualandoverrideExample\VirtualandoverrideExample\obj\Debug\VirtualandoverrideExample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VirtualandoverrideExample\VirtualandoverrideExample\bin\Debug\VirtualandoverrideExample.exe.config
+C:\Users\Lenovo\source\repos\VirtualandoverrideExample\VirtualandoverrideExample\bin\Debug\VirtualandoverrideExample.exe
+C:\Users\Lenovo\source\repos\VirtualandoverrideExample\VirtualandoverrideExample\bin\Debug\VirtualandoverrideExample.pdb
+C:\Users\Lenovo\source\repos\VirtualandoverrideExample\VirtualandoverrideExample\obj\Debug\VirtualandoverrideExample.exe
+C:\Users\Lenovo\source\repos\VirtualandoverrideExample\VirtualandoverrideExample\obj\Debug\VirtualandoverrideExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\BaseKeywordExample\BaseKeywordExample\bin\Debug\BaseKeywordExample.exe.config
+C:\Users\Lenovo\source\repos\BaseKeywordExample\BaseKeywordExample\bin\Debug\BaseKeywordExample.exe
+C:\Users\Lenovo\source\repos\BaseKeywordExample\BaseKeywordExample\bin\Debug\BaseKeywordExample.pdb
+C:\Users\Lenovo\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\BaseKeywordExample.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\BaseKeywordExample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\BaseKeywordExample.exe
+C:\Users\Lenovo\source\repos\BaseKeywordExample\BaseKeywordExample\obj\Debug\BaseKeywordExample.pdb

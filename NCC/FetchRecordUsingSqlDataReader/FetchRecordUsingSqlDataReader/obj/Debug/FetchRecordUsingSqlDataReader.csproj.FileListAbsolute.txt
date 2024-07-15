@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FetchRecordUsingSqlDataReader\FetchRecordUsingSqlDataReader\bin\Debug\FetchRecordUsingSqlDataReader.exe.config
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FetchRecordUsingSqlDataReader\FetchRecordUsingSqlDataReader\bin\Debug\FetchRecordUsingSqlDataReader.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FetchRecordUsingSqlDataReader\FetchRecordUsingSqlDataReader\bin\Debug\FetchRecordUsingSqlDataReader.pdb
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FetchRecordUsingSqlDataReader\FetchRecordUsingSqlDataReader\obj\Debug\FetchRecordUsingSqlDataReader.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FetchRecordUsingSqlDataReader\FetchRecordUsingSqlDataReader\obj\Debug\FetchRecordUsingSqlDataReader.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FetchRecordUsingSqlDataReader\FetchRecordUsingSqlDataReader\obj\Debug\FetchRecordUsingSqlDataReader.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\FetchRecordUsingSqlDataReader\FetchRecordUsingSqlDataReader\obj\Debug\FetchRecordUsingSqlDataReader.pdb

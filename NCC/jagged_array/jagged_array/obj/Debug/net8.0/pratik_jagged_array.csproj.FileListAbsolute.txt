@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\bin\Debug\net8.0\pratik_jagged_array.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\bin\Debug\net8.0\pratik_jagged_array.deps.json
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\bin\Debug\net8.0\pratik_jagged_array.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\bin\Debug\net8.0\pratik_jagged_array.dll
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\bin\Debug\net8.0\pratik_jagged_array.pdb
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\obj\Debug\net8.0\pratik_jagged_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\obj\Debug\net8.0\pratik_jagged_array.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\obj\Debug\net8.0\pratik_jagged_array.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\obj\Debug\net8.0\pratik_jagged_array.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\obj\Debug\net8.0\pratik_jagged_array.dll
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\obj\Debug\net8.0\refint\pratik_jagged_array.dll
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\obj\Debug\net8.0\pratik_jagged_array.pdb
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\obj\Debug\net8.0\pratik_jagged_array.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\jagged_array\jagged_array\obj\Debug\net8.0\ref\pratik_jagged_array.dll

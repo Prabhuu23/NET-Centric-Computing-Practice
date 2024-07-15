@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Sem 6\NCC\insert_and_select\insert_and_select\bin\Debug\insert_and_select.exe.config
+C:\Users\Lenovo\Desktop\Sem 6\NCC\insert_and_select\insert_and_select\bin\Debug\insert_and_select.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\insert_and_select\insert_and_select\bin\Debug\insert_and_select.pdb
+C:\Users\Lenovo\Desktop\Sem 6\NCC\insert_and_select\insert_and_select\obj\Debug\insert_and_select.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\insert_and_select\insert_and_select\obj\Debug\insert_and_select.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Sem 6\NCC\insert_and_select\insert_and_select\obj\Debug\insert_and_select.exe
+C:\Users\Lenovo\Desktop\Sem 6\NCC\insert_and_select\insert_and_select\obj\Debug\insert_and_select.pdb

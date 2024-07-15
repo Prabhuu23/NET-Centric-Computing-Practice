@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\q16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24964FB1-26A3-4ADF-A998-34194A4E36E0}|q16\\q16.csproj|c:\\users\\lenovo\\desktop\\sem 6\\ncc\\q16\\q16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24964FB1-26A3-4ADF-A998-34194A4E36E0}|q16\\q16.csproj|solutionrelative:q16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\q16\\q16\\Program.cs",
+              "RelativeDocumentMoniker": "q16\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Sem 6\\NCC\\q16\\q16\\Program.cs",
+              "RelativeToolTip": "q16\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wCUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:28:31.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

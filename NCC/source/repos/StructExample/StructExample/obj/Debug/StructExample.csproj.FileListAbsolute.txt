@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\StructExample\StructExample\bin\Debug\StructExample.exe.config
+C:\Users\Lenovo\source\repos\StructExample\StructExample\bin\Debug\StructExample.exe
+C:\Users\Lenovo\source\repos\StructExample\StructExample\bin\Debug\StructExample.pdb
+C:\Users\Lenovo\source\repos\StructExample\StructExample\obj\Debug\StructExample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\StructExample\StructExample\obj\Debug\StructExample.exe
+C:\Users\Lenovo\source\repos\StructExample\StructExample\obj\Debug\StructExample.pdb
